@@ -94,7 +94,7 @@ A webhook is an automatic HTTP request sent from one application to another when
 
 ### 2. What event triggers the webhook?
 
-Creating an order triggers the `order.created` webhook.
+Creating an order triggers the order.created webhook.
 
 ### 3. What is the difference between a normal API request and a webhook?
 
